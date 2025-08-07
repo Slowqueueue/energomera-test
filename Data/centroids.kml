@@ -1,0 +1,9 @@
+﻿<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Field_1</name>
+      <ExtendedData><Data name="id"><value>1</value></Data></ExtendedData>
+      <Point><coordinates>37.6178,55.7512</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

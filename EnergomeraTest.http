@@ -1,0 +1,6 @@
+@EnergomeraTest_HostAddress = http://localhost:5159
+
+GET {{EnergomeraTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
